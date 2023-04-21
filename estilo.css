@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(bg-palm.jpg);
+}
+
+img{
+    margin: 100px 600px 15px;
+    width: 95px;
+}
+
+strong{
+    margin: 30px 605px;
+    
+}
+
+p{
+    width: 30%;
+    border-radius: 50px;
+    margin: 10px 450px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    cursor: pointer;
+    
+}
+
+.Links{
+    padding: 30px 0px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: small;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    margin:0px 490px;
+    color: black;
+    
+}
+.tw{
+    margin: 0px 40px;
+    color: black; 
+    width: 20px;
+}
+.face{
+    margin: 0px 40px;
+    color: black;
+    width: 20px; 
+}
+.linkedin{
+    margin: 0px 40px;
+    color: black; 
+    width: 20px;
+}
